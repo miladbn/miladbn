@@ -15,6 +15,8 @@
 </p>
 
 
+<h3 align="left">Coding Languages Waka time :</h3>
+<figure><embed src="https://wakatime.com/share/@d7f0c534-9d3a-46fc-8ab9-2ea6f542c9dc/547e6f99-88bb-4be7-be42-cc07440f700d.svg"></embed></figure>
 <h3 align="left">Coding Activity Waka time :</h3>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@d7f0c534-9d3a-46fc-8ab9-2ea6f542c9dc/8fd634d5-f048-43dc-bc39-fe35bf68404d.png" /></a>
 <h3 align="left">Languages and Tools:</h3>
