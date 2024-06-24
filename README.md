@@ -53,4 +53,4 @@ JSON              5 hrs 1 min     -------------------------   00.81 %
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miladbn&" alt="miladbn" /></p>
 
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=n9ingbaa5r0w9nrxskv839sgz&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=n9ingbaa5r0w9nrxskv839sgz&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n9ingbaa5r0w9nrxskv839sgz&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
