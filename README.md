@@ -15,6 +15,9 @@
 </p>
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3 align="left">Coding Languages Waka time :</h3>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@d7f0c534-9d3a-46fc-8ab9-2ea6f542c9dc/e80791d2-f180-4550-860d-acaece92d73a.png" /></a>
 
