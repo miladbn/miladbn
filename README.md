@@ -52,6 +52,13 @@ JSON              5 hrs 18 mins   -------------------------   00.84 %
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miladbn&" alt="miladbn" /></p>
 
+<h3 align="left">LeetCode status :</h3>
+
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/miladbn?theme=unicorn&font=Reggae%20One&ext=heatmap)
+
+
 <h3 align="left">Listen with me :</h3>
 
 
