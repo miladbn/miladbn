@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2019 - To: 22 August 2024
+From: 24 October 2019 - To: 23 August 2024
 
 Total Time: 690 hrs 36 mins
 
-TypeScript        271 hrs 7 mins  >>>>>>>>-----------------   30.57 %
+TypeScript        271 hrs 7 mins  >>>>>>>>-----------------   30.56 %
 Blade Template    206 hrs 12 mins >>>>>>-------------------   23.25 %
-Other             196 hrs 12 mins >>>>>>-------------------   22.12 %
+Other             196 hrs 27 mins >>>>>>-------------------   22.15 %
 HTML              61 hrs 24 mins  >>-----------------------   06.92 %
 CSS               54 hrs 37 mins  >>-----------------------   06.16 %
 JavaScript        34 hrs 16 mins  >------------------------   03.86 %
