@@ -18,20 +18,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2019 - To: 20 November 2024
+From: 24 October 2019 - To: 21 November 2024
 
-Total Time: 777 hrs 49 mins
+Total Time: 777 hrs 59 mins
 
-Other             435 hrs 20 mins >>>>>>>>>----------------   35.88 %
-TypeScript        337 hrs 44 mins >>>>>>>------------------   27.84 %
-Blade Template    206 hrs 12 mins >>>>---------------------   17.00 %
-HTML              63 hrs 21 mins  >------------------------   05.22 %
-CSS               55 hrs 33 mins  >------------------------   04.58 %
-JavaScript        40 hrs 44 mins  >------------------------   03.36 %
-PHP               22 hrs 26 mins  -------------------------   01.85 %
+Other             438 hrs 41 mins >>>>>>>>>----------------   36.06 %
+TypeScript        337 hrs 52 mins >>>>>>>------------------   27.77 %
+Blade Template    206 hrs 12 mins >>>>---------------------   16.95 %
+HTML              63 hrs 21 mins  >------------------------   05.21 %
+CSS               55 hrs 33 mins  >------------------------   04.57 %
+JavaScript        40 hrs 44 mins  >------------------------   03.35 %
+PHP               22 hrs 26 mins  -------------------------   01.84 %
 JSON              10 hrs 21 mins  -------------------------   00.85 %
-Vue.js            8 hrs 49 mins   -------------------------   00.73 %
-YAML              7 hrs 59 mins   -------------------------   00.66 %
+Vue.js            8 hrs 49 mins   -------------------------   00.72 %
+YAML              8 hrs           -------------------------   00.66 %
 ```
 
 <!--END_SECTION:waka-->
