@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladbn&label=Profile%20views&color=0e75b6&style=flat" alt="miladbn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miladbn" alt="miladbn" /></a> </p>
-
+<a href="https://wakatime.com/@d7f0c534-9d3a-46fc-8ab9-2ea6f542c9dc"><img src="https://wakatime.com/badge/user/d7f0c534-9d3a-46fc-8ab9-2ea6f542c9dc.svg" alt="Total time coded since Oct 25 2019" /></a>
 - 🔭 I’m currently working on safar724 **safar724**
 
 - 📫 How to reach me **milad.b.n.77@gmail.com**
