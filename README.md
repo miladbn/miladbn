@@ -20,17 +20,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2019 - To: 15 April 2025
+From: 24 October 2019 - To: 16 April 2025
 
-Total Time: 957 hrs 4 mins
+Total Time: 958 hrs 24 mins
 
-Other                              551 hrs 35 mins ░░░░░░░░░████████████████   36.56 %
-TypeScript                         469 hrs 51 mins ░░░░░░░▒█████████████████   31.14 %
-Blade Template                     206 hrs 12 mins ░░░▓█████████████████████   13.67 %
+Other                              551 hrs 35 mins ░░░░░░░░░████████████████   36.53 %
+TypeScript                         471 hrs 9 mins  ░░░░░░░▒█████████████████   31.20 %
+Blade Template                     206 hrs 12 mins ░░░▓█████████████████████   13.66 %
 HTML                               65 hrs 11 mins  ░████████████████████████   04.32 %
 CSS                                57 hrs 50 mins  ░████████████████████████   03.83 %
-JavaScript                         50 hrs 47 mins  ░████████████████████████   03.37 %
-JSON                               22 hrs 34 mins  ▓████████████████████████   01.50 %
+JavaScript                         50 hrs 47 mins  ░████████████████████████   03.36 %
+JSON                               22 hrs 36 mins  ▓████████████████████████   01.50 %
 PHP                                22 hrs 26 mins  ▓████████████████████████   01.49 %
 YAML                               10 hrs 26 mins  ▓████████████████████████   00.69 %
 Vue.js                             8 hrs 49 mins   █████████████████████████   00.58 %
