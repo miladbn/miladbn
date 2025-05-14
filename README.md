@@ -20,20 +20,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2019 - To: 12 May 2025
+From: 24 October 2019 - To: 13 May 2025
 
-Total Time: 1,008 hrs 26 mins
+Total Time: 1,010 hrs 20 mins
 
-Other                              551 hrs 50 mins ░░░░░░░░░████████████████   35.37 %
-TypeScript                         516 hrs 3 mins  ░░░░░░░░▓████████████████   33.07 %
-Blade Template                     206 hrs 12 mins ░░░▓█████████████████████   13.22 %
+Other                              552 hrs 2 mins  ░░░░░░░░▒████████████████   35.33 %
+TypeScript                         516 hrs 22 mins ░░░░░░░░▓████████████████   33.05 %
+Blade Template                     206 hrs 12 mins ░░░▓█████████████████████   13.20 %
 HTML                               66 hrs 31 mins  ░████████████████████████   04.26 %
 CSS                                58 hrs 12 mins  ░████████████████████████   03.73 %
-JavaScript                         51 hrs 22 mins  ▒████████████████████████   03.29 %
-JSON                               24 hrs 36 mins  ▓████████████████████████   01.58 %
+JavaScript                         51 hrs 24 mins  ▒████████████████████████   03.29 %
+JSON                               25 hrs 21 mins  ▓████████████████████████   01.62 %
 PHP                                22 hrs 26 mins  ▓████████████████████████   01.44 %
-YAML                               10 hrs 27 mins  ▓████████████████████████   00.67 %
-Vue.js                             8 hrs 49 mins   █████████████████████████   00.57 %
+YAML                               10 hrs 31 mins  ▓████████████████████████   00.67 %
+Vue.js                             8 hrs 49 mins   █████████████████████████   00.56 %
 ```
 
 <!--END_SECTION:waka-->
