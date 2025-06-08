@@ -44,9 +44,7 @@ Vue.js                             8 hrs 49 mins   █████████�
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miladbn&show_icons=true&locale=en&layout=compact" alt="miladbn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miladbn&show_icons=true&locale=en" alt="miladbn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miladbn&" alt="miladbn" /></p>
 
 
 <h3 align="left">LeetCode status :</h3>
