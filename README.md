@@ -19,20 +19,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2019 - To: 31 December 2025
+From: 24 October 2019 - To: 02 January 2026
 
-Total Time: 1,350 hrs
+Total Time: 1,355 hrs 53 mins
 
-TypeScript                         794 hrs 50 mins ░░░░░░░░░░▓██████████████   41.62 %
-Other                              559 hrs 32 mins ░░░░░░░▓█████████████████   29.30 %
-Blade Template                     206 hrs 12 mins ░░▒██████████████████████   10.80 %
-HTML                               70 hrs 10 mins  ░████████████████████████   03.68 %
-CSS                                61 hrs 6 mins   ▒████████████████████████   03.20 %
-JavaScript                         60 hrs 56 mins  ▒████████████████████████   03.19 %
-JSON                               45 hrs 56 mins  ▒████████████████████████   02.41 %
-PHP                                26 hrs 5 mins   ▓████████████████████████   01.37 %
-YAML                               14 hrs 3 mins   ▓████████████████████████   00.74 %
-Markdown                           9 hrs 4 mins    █████████████████████████   00.48 %
+TypeScript                         799 hrs 4 mins  ░░░░░░░░░░▓██████████████   41.71 %
+Other                              559 hrs 43 mins ░░░░░░░▓█████████████████   29.22 %
+Blade Template                     206 hrs 12 mins ░░▒██████████████████████   10.76 %
+HTML                               70 hrs 10 mins  ░████████████████████████   03.66 %
+CSS                                61 hrs 7 mins   ▒████████████████████████   03.19 %
+JavaScript                         60 hrs 56 mins  ▒████████████████████████   03.18 %
+JSON                               47 hrs 6 mins   ▒████████████████████████   02.46 %
+PHP                                26 hrs 5 mins   ▓████████████████████████   01.36 %
+YAML                               14 hrs 3 mins   ▓████████████████████████   00.73 %
+Markdown                           9 hrs 7 mins    █████████████████████████   00.48 %
 ```
 
 <!--END_SECTION:waka-->
