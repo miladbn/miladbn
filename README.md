@@ -19,20 +19,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2019 - To: 21 July 2026
+From: 24 October 2019 - To: 24 July 2026
 
-Total Time: 1,574 hrs 26 mins
+Total Time: 1,582 hrs 23 mins
 
-TypeScript                         953 hrs 43 mins       ░░░░░░░░░░░██████████████   44.55 %
-Other                              566 hrs 8 mins        ░░░░░░▒██████████████████   26.45 %
-Blade Template                     206 hrs 12 mins       ░░▓██████████████████████   09.63 %
-HTML                               77 hrs 59 mins        ░████████████████████████   03.64 %
-JSON                               70 hrs 55 mins        ▒████████████████████████   03.31 %
-JavaScript                         68 hrs 34 mins        ▒████████████████████████   03.20 %
-CSS                                64 hrs 16 mins        ▒████████████████████████   03.00 %
-PHP                                26 hrs 5 mins         ▓████████████████████████   01.22 %
-YAML                               16 hrs 56 mins        ▓████████████████████████   00.79 %
-Markdown                           13 hrs 41 mins        █████████████████████████   00.64 %
+TypeScript                         959 hrs 27 mins       ░░░░░░░░░░░██████████████   44.65 %
+Other                              566 hrs 24 mins       ░░░░░░▒██████████████████   26.36 %
+Blade Template                     206 hrs 12 mins       ░░▓██████████████████████   09.60 %
+HTML                               78 hrs 2 mins         ░████████████████████████   03.63 %
+JSON                               71 hrs 27 mins        ▒████████████████████████   03.33 %
+JavaScript                         68 hrs 50 mins        ▒████████████████████████   03.20 %
+CSS                                65 hrs 1 min          ▒████████████████████████   03.03 %
+PHP                                26 hrs 5 mins         ▓████████████████████████   01.21 %
+YAML                               17 hrs 10 mins        ▓████████████████████████   00.80 %
+Markdown                           13 hrs 48 mins        █████████████████████████   00.64 %
 ```
 
 <!--END_SECTION:waka-->
