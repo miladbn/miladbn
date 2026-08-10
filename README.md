@@ -19,20 +19,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2019 - To: 08 August 2026
+From: 24 October 2019 - To: 10 August 2026
 
-Total Time: 1,601 hrs 15 mins
+Total Time: 1,604 hrs 3 mins
 
-TypeScript                         970 hrs 29 mins       ░░░░░░░░░░░▓█████████████   44.76 %
-Other                              566 hrs 53 mins       ░░░░░░▒██████████████████   26.15 %
-Blade Template                     206 hrs 12 mins       ░░▓██████████████████████   09.51 %
+TypeScript                         973 hrs 8 mins        ░░░░░░░░░░░▓█████████████   44.82 %
+Other                              566 hrs 57 mins       ░░░░░░▒██████████████████   26.11 %
+Blade Template                     206 hrs 12 mins       ░░▓██████████████████████   09.50 %
 HTML                               78 hrs 7 mins         ░████████████████████████   03.60 %
-JSON                               72 hrs 6 mins         ▒████████████████████████   03.33 %
-JavaScript                         69 hrs 29 mins        ▒████████████████████████   03.21 %
-CSS                                65 hrs 3 mins         ▒████████████████████████   03.00 %
+JSON                               72 hrs 6 mins         ▒████████████████████████   03.32 %
+JavaScript                         69 hrs 29 mins        ▒████████████████████████   03.20 %
+CSS                                65 hrs 5 mins         ▒████████████████████████   03.00 %
 PHP                                26 hrs 5 mins         ▓████████████████████████   01.20 %
 YAML                               18 hrs 15 mins        ▓████████████████████████   00.84 %
-Markdown                           14 hrs 34 mins        ▓████████████████████████   00.67 %
+Markdown                           14 hrs 35 mins        ▓████████████████████████   00.67 %
 ```
 
 <!--END_SECTION:waka-->
